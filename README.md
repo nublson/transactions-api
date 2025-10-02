@@ -8,5 +8,5 @@
 # RN
 
 - [x] The transaction can be a credit, witch will sum the total amount or a debit witch will subtract
-- [ ] It should be possible to identify the user between requests
-- [ ] User can only view its own transactions
+- [x] It should be possible to identify the user between requests
+- [x] User can only view its own transactions
